@@ -2,7 +2,7 @@
 title: "Nidhi Saini"
 ---
 
-I turn messy data into decisions.
+I'm a data scientist. I turn messy data into decisions.
 
 ## Featured projects
 

@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-Short bio: who you are, what you work on, and what you care about. Three sentences.
+I'm a data scientist who enjoys the full path from messy data to a decision: pipelines, modelling, and the conversations that explain why a number looks wrong. I work across healthcare, retail, and finance.
 
 **Skills:** Python, SQL, statistics, machine learning, data visualization
 
