@@ -1,0 +1,15 @@
+---
+title: "Project 1"
+---
+
+**Problem:** what question or decision this addresses.
+
+**Data:** where the data came from and how big it is.
+
+**Method:** the approach, in a few sentences.
+
+**Result:** one measurable outcome.
+
+**Next steps:** what you would do with more time.
+
+**Links:** add notebook or repo links.

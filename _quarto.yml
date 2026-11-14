@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nidhi Saini"
+  description: "Data scientist portfolio"
+  navbar:
+    left:
+      - index.qmd
+      - projects.qmd
+      - about.qmd
+      - contact.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true

@@ -1,0 +1,13 @@
+---
+title: "About"
+---
+
+Short bio: who you are, what you work on, and what you care about. Three sentences.
+
+**Skills:** Python, SQL, statistics, machine learning, data visualization
+
+**Tools:** add the tools you use day to day
+
+**Education:** add degrees or certifications
+
+[Download CV](assets/cv.pdf)

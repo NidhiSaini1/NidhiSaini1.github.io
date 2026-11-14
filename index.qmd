@@ -1,0 +1,13 @@
+---
+title: "Nidhi Saini"
+---
+
+I turn messy data into decisions.
+
+## Featured projects
+
+- [Project 1](projects/project-1.qmd): short one-line summary and key result.
+- [Project 2](projects/project-2.qmd): short one-line summary and key result.
+- [Project 3](projects/project-3.qmd): short one-line summary and key result.
+
+[See all projects](projects.qmd) · [Contact](contact.qmd)

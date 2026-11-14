@@ -1,0 +1,9 @@
+---
+title: "Projects"
+---
+
+All projects, with tags for tools and methods.
+
+- [Project 1](projects/project-1.qmd): `Python` `SQL` `ML`
+- [Project 2](projects/project-2.qmd): `Dashboards` `Analysis`
+- [Project 3](projects/project-3.qmd): `Statistics` `Experimentation`
